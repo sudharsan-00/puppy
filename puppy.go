@@ -5,11 +5,12 @@ import (
 
 	"github.com/sudharsan-00/dog"
 )
-func from1(){
+
+func From1() {
 	fmt.Println("I am from version 1.0.0")
 }
 
-func from2(){
+func From2() {
 	fmt.Println("I am from version 1.2.0")
 }
 func Bark() string {
