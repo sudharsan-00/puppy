@@ -8,6 +8,10 @@ import (
 func from1(){
 	fmt.Println("I am from version 1.0.0")
 }
+
+func from2(){
+	fmt.Println("I am from version 1.2.0")
+}
 func Bark() string {
 	return "good morning"
 }
